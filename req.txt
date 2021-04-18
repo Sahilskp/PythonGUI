@@ -2,3 +2,6 @@ pysimplegui
 numpy
 pandas
 sklearn
+seaborn
+matplotlib
+scipy
